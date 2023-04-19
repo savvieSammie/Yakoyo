@@ -1,2 +1,8 @@
-# Stores API with Flask
-here's what the API will be able to do; receive requests from a client(such as a web application)and respond with some data. Using the API, clients will be able to create store, create items within a store, retrieve a list of stores and their items, and retrieve individual stores and items given its name.
+# Yakoyo
+Yakoyo is a food website where you can get nigerian foods. The 'Yakoyo' translates to be
+check by and eat, The website contains different traditional dishes where customers can
+view them
+
+
+
+The website was built using html and css, making use of concepts like animation and transition
